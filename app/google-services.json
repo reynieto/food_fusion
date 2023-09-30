@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008247167544",
+    "project_id": "loginproject-e5e76",
+    "storage_bucket": "loginproject-e5e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008247167544:android:4c1d3acc3389a53de6e4cd",
+        "android_client_info": {
+          "package_name": "com.example.foodfusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDR0yntRfChWfJxJRNDnOtmH7D6ISi6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
